@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 3D 프린트 원본 (용량 큼, Thingiverse에서 받기)
+*.stl
+*.3mf
+
+# 압축 파일
+*.zip

@@ -1,0 +1,5 @@
+# 기구학 (arm.py) — 어디서나
+numpy
+
+# M0 서보 구동 (m0_servo.py) — Jetson에서만 (하드웨어 필요)
+# adafruit-circuitpython-servokit
